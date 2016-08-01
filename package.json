@@ -1,0 +1,22 @@
+{
+  "name": "uglify-tea",
+  "version": "1.0.0",
+  "description": "Uglified Tiny Encryption Algorithm from http://www.movable-type.co.uk/scripts/tea-block.html",
+  "main": "tea.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commandp/uglify-tea.git"
+  },
+  "keywords": [
+    "encrypt"
+  ],
+  "author": "David Wheeler & Roger Needham, Cambridge University Computer Lab, Chris Veness, e39a562r",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/commandp/uglify-tea/issues"
+  },
+  "homepage": "https://github.com/commandp/uglify-tea#readme"
+}
